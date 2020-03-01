@@ -1,7 +1,7 @@
 theme = "tale-hugo"
 baseURL = "https://interaction.netlify.com/"
 languageCode = "en-us"
-title = ""
+title = "Etkilesimciligin Gizemli Cekiciligi"
 
 [menu]
   [[menu.main]]
