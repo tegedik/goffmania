@@ -1,0 +1,18 @@
+theme = "tale-hugo"
+baseURL = "https://interaction.netlify.com/"
+languageCode = "en-us"
+title = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Hakkinda"
+    title = "Hakkinda"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Yazilar"
+    title = "Yazilar"
+    url = "/post/"
+    weight = 0
