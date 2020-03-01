@@ -1,18 +1,18 @@
 theme = "tale-hugo"
 baseURL = "https://interaction.netlify.com/"
 languageCode = "en-us"
-title = "Etkilesimciligin Gizemli Cekiciligi"
+title = "Persona"
 
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "Hakkinda"
-    title = "Hakkinda"
+    name = "Hakkında"
+    title = "Hakkında"
     url = "/about/"
     weight = 0
   [[menu.main]]
     identifier = "posts"
-    name = "Yazilar"
-    title = "Yazilar"
+    name = "Yazılar"
+    title = "Yazılar"
     url = "/post/"
     weight = 0
